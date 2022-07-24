@@ -1,4 +1,4 @@
-# navigator_2_o_project
+## navigator_2_o_flutter_project
 
 A new Flutter project.
 
